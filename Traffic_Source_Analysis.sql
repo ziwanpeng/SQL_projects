@@ -1,4 +1,4 @@
-# this is a traffic source analysis for a e-commerce website
+# this is a traffic source analysis for an e-commerce website
 
 
 ## what the output shows
