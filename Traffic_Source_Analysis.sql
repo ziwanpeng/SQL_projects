@@ -16,7 +16,7 @@ group by utm_source,utm_campaign,http_referer
 order by sessions desc;
 
 
-## session to orders conversion rate for by gsearch nonbrand campaign
+## session to order conversion rate for gsearch nonbrand campaign
 -- the conversion rate is lower than 4% which leads the marketing department to dial down the search bids
 select 
 	count(distinct ws.website_session_id) as ws_sessions,
